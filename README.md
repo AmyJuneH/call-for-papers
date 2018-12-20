@@ -4,7 +4,7 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 | Event Name | Location | Tech Focus | Event Date | CFP Due Date | URL |
 |------------|----------|--------------|--------------|--------------|-------|
 |TEMPLATE|City, State|Awesome Tech|2019-01-01|2019-01-01|[Apply](https://google.com)|
-|DrupalCamp New Jersey|Princeton, NJ|Drupal|2019-02-02|Passed|[Schedule](https://www.drupalcampnj.org/program|
+|DrupalCamp New Jersey|Princeton, NJ|Drupal|2019-02-02|Passed|[Schedule](https://www.drupalcampnj.org/program)|
 |WordCamp Phoenix|Phoenix, AZ|WordPress|2019-02-15|Passed|[Schedule](https://2019.phoenix.wordcamp.org/)|
 |Florida DrupalCamp|Orlando, FL|Drupal|2019-02-15|2018-01-14|[Apply](https://www.fldrupal.camp/submit-session)|
 |DrupalCamp London|London|Drupal|2019-03-01|2019-01-21|[Apply](https://drupalcamp.london/get-involved/submit-a-session)|
