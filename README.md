@@ -19,7 +19,7 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |DrupalCon North America|Seattle, WA|Drupal|2019-04-08|Passed|[Schedule](https://events.drupal.org/seattle2019)|
 |WordCamp Calgary|Calgary, Canada|WordPress|2019-05-10|TBD|[Apply](https://2019.calgary.wordcamp.org/2018/10/24/call-for-speakers/#more-177)|
 |Drupal Flyover Camp|Kansas City, MO|Drupal|2019-05-31|TBD|[Apply](https://www.flyovercamp.org/submit-talk)|
-|Drupal North|Montreal, Canada|Drupal|2019-06-12|TBD|[Apply](http://www.drupalnorth.org/en/drupal-north-regional-summit|
+|Drupal North|Montreal, Canada|Drupal|2019-06-12|TBD|[Apply](http://www.drupalnorth.org/en/drupal-north-regional-summit)|
 |WordCamp Jacksonville|Jacksonville, FL|WordPress|2019-06-29|2019-01-15|[Apply](https://2019.jacksonville.wordcamp.org/2018/11/09/call-for-speakers/)|
 |DrupalCamp Asheville|Asheville, NC|Drupal|2019-07-12|TBD|[Apply](https://www.drupalasheville.com/camp)|
 |DrupalCamp Colorado|Denver, CO|Drupal|2019-08-02|TBD|[Apply](https://2019.drupalcampcolorado.org/)|
